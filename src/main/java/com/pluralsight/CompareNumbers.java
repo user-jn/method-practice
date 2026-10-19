@@ -38,5 +38,6 @@ public class CompareNumbers {
     // Check if number is positive
     public static boolean isPositive(double number) {
         return number > 0;
+
     }
 }
